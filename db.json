@@ -1,0 +1,115 @@
+{
+  "user": {
+    "id": "39827902",
+    "area": "Solutions",
+    "email": "jctovar@gmail.com",
+    "name": "Juan Camilo Tovar",
+    "username": "jctovar",
+    "image": "https://holatelcel.com/wp-content/uploads/2018/11/HEAD-face-recognition.jpg"
+  },
+  "banner": [
+    {
+      "title": "Titulo",
+      "description": "description",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "notifications": [
+    {
+      "title": "Notification 1 title",
+      "description": "Notification 1 description",
+      "link": ""
+    },
+    {
+      "title": "Notification 2 title",
+      "description": "Notification 2 description",
+      "link": ""
+    }
+  ],
+  "sections": [
+    {
+      "title": "Bienestar",
+      "image": "https://img.lalr.co/cms/2017/07/20150814/ab-invev.jpg?size=xl",
+      "description": "Esta sección ",
+      "link": "",
+      "content": [
+        {
+          "title": "Titulo contenido Bienestar 1",
+          "image": "https://img.lalr.co/cms/2017/07/20150814/ab-invev.jpg?size=xl",
+          "description": "Titulo de descripción de bienestar Publicación 1",
+          "link": ""
+        },
+        {
+          "title": "Titulo contenido Bienestar 2",
+          "image": "https://img.lalr.co/cms/2017/07/20150814/ab-invev.jpg?size=xl",
+          "description": "Titulo de descripción de bienestar Publicación 2",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Diversidad",
+      "image": "https://img.lalr.co/cms/2017/07/20150814/ab-invev.jpg?size=xl",
+      "description": "Esta sección es de Diversidad",
+      "link": "",
+      "content": [
+        {
+          "title": "Titulo contenido Diversidad 1",
+          "image": "https://img.lalr.co/cms/2017/07/20150814/ab-invev.jpg?size=xl",
+          "description": "Titulo de descripción de Diversidad Publicación 1",
+          "link": ""
+        },
+        {
+          "title": "Titulo contenido Diversidad  2",
+          "image": "https://img.lalr.co/cms/2017/07/20150814/ab-invev.jpg?size=xl",
+          "description": "Titulo de descripción de Diversidad Publicación 2",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Marcas",
+      "image": "https://img.lalr.co/cms/2017/07/20150814/ab-invev.jpg?size=xl",
+      "description": "Esta sección es de marcas",
+      "link": "",
+      "content": [
+        {
+          "title": "Budweiser",
+          "image": "https://www.ab-inbev.com/content/dam/abinbev/our-brands/our-beer/desktop/beer-cards/Budweiser_Card.png",
+          "description": "The yeast cells used to brew every bottle of our American-style lager are directly descended from the original culture used by founder Adolphus Busch.",
+          "link": ""
+        },
+        {
+          "title": "Corona",
+          "image": "https://www.ab-inbev.com/content/dam/abinbev/our-brands/our-beer/Resized-Brand-Expander/Corona.jpg",
+          "description": "Corona is a worldwide trademark; it is a Mexican beer among the 100 most valuable global brands, according to Brandz™ Top 100 Global Brands ranking. *Disclaimer: We do not own this delicious beer in the U.S.",
+          "link": ""
+        }
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "--clr-primary": "#DB590A"
+    },
+    {
+      "--bs-secondary": "#6C757D"
+    },
+    {
+      "--bs-light": "#FAFAFA"
+    },
+    {
+      "--bs-dark": "#343434"
+    },
+    {
+      "--bs-white": "#fff"
+    },
+    {
+      "--bs-gray": "#6C757D"
+    },
+    {
+      "--bs-gray-dark": "#343A40"
+    }
+  ]
+}
